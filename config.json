@@ -1,0 +1,16 @@
+{
+  "images_per_video": 5,
+  "video_duration_per_image": 2.4,
+  "youtube": {
+    "caption": "#Allah",
+    "title_prefix": "#Allah",
+    "privacy_status": "public",
+    "made_for_kids": false,
+    "channels": [
+      "My Islamic Channel",
+      "Second Channel",
+      "Third Channel"
+    ]
+  },
+  "schedule_times": ["08:00", "10:00", "14:00"]
+}
